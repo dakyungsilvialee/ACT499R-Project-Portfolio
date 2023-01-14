@@ -1,5 +1,11 @@
 # ACT499R-Project-Portfolio
-Compilation of ACCT499R Projects regarding data cleaning, visualization, and manipulation by Python.
+## Introduction
+> Compilation of ACCT499R Projects regarding data cleaning, visualization, and manipulation by Python.
+
+
+## Technologies Used
+>  
+* Python
 
 
 # [Project 1: Python Basics](https://github.com/dakyungsilvialee/Analysis-of-Disney-Movies)
