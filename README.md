@@ -8,7 +8,7 @@
 * Python
 
 
-# [Project 1: Python Basics](https://github.com/dakyungsilvialee/Analysis-of-Disney-Movies)
+# [Project 1: Python Basics](https://github.com/dakyungsilvialee/ACT499R-Project-Portfolio/blob/master/Python%20Basics.py)
 * Write Python if loops through dictionaries and analyze x y z
 
 
