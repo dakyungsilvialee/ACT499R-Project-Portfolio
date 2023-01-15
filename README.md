@@ -18,7 +18,7 @@
 * Calculate total GDP, worldwide gdp per Capita, and average age of billionaires 
 
 
-# [Project 3: Australian Tax Return Data Analysis](https://github.com/dakyungsilvialee/ACT499R-Project-Portfolio/blob/master/analyzing_australian_tax_return_data_part_i__2022.py) & [](https://github.com/dakyungsilvialee/ACT499R-Project-Portfolio/blob/master/analyzing_australian_tax_return_data_part_ii__2022.py)
+# [Project 3: Australian Tax Return Data Analysis](https://github.com/dakyungsilvialee/ACT499R-Project-Portfolio/blob/master/analyzing_australian_tax_return_data_part_i__2022.py) & [part 2](https://github.com/dakyungsilvialee/ACT499R-Project-Portfolio/blob/master/analyzing_australian_tax_return_data_part_ii__2022.py)
 * Implement loops in Python to distinguish private and public firms and clean tax return data of 5 datasets per 4k+ rows
 * Calculate effective tax rate for various firms by using Python Boolean index to filter out different income year and sought
 most profitable firm with 10.57% increase
