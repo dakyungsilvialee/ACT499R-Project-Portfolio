@@ -12,7 +12,7 @@
 * Write Python if loops through dictionaries and analyze x y z
 
 
-# [Project 2: GDP Analysis](https://github.com/dakyungsilvialee/Analysis-of-Disney-Movies)
+# [Project 2: GDP Analysis](https://github.com/dakyungsilvialee/ACT499R-Project-Portfolio/blob/master/GDP%20Analysis.py)
 * Manipulate integer data types into string/object 
 * Analyze which country in a specific year that had the poorest citizens and how they improved by using group by functions
 * Calculate total GDP, worldwide gdp per Capita, and average age of billionaires 
