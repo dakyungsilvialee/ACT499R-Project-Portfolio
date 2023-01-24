@@ -9,7 +9,7 @@
 
 
 # [Project 1: Python Basics](https://github.com/dakyungsilvialee/ACT499R-Project-Portfolio/blob/master/Python%20Basics.py)
-* Write Python if loops through dictionaries and analyze x y z
+* Write Python if loops through dictionaries and distinguish data with conditions 
 
 
 # [Project 2: GDP Analysis](https://github.com/dakyungsilvialee/ACT499R-Project-Portfolio/blob/master/GDP%20Analysis.py)
