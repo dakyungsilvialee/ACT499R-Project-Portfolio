@@ -46,8 +46,7 @@ most profitable firm with 10.57% increase
 
 
 # [Project 7: Stock Price Prediction & Trend Analysis](https://github.com/dakyungsilvialee/ACT499R-Project-Portfolio/blob/master/stock%20price%20prediction%20%26%20trend%20analysis.py)
-* Analyze x and y by using supervised leraning analysis 
-* 
+* Analyze Coca cola's stock price and predict the next 5 years by using out sampling supervised leraning analysis 
 
 
 # [Project 8: New York Housing Final Project](https://github.com/dakyungsilvialee/ACT499R-Project-Portfolio/blob/master/Analyzing%20impact%20of%20the%20Pandemic%20in%20NYC%20Residences%20Prices.py)
